@@ -20,7 +20,7 @@ Actualmente, estudio **Administración de Sistemas Informáticos en Red**, donde
 ---
 
 ## 📊 Un vistazo a mi GitHub  
-![Paula's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaulaCastelao&show_icons=true&theme=radical)  
+![Paula's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulacf5&show_icons=true&theme=radical)  
 
 ---
 
